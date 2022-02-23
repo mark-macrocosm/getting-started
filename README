@@ -1,0 +1,16 @@
+1. In booking repository, store method.
+ 1.1 Data should be validated.
+ 1.2 $immediatetime value should be coming from a file.
+ 1.3 User type should be handle through roles and permissions.
+ 1.4 Localization should be implemented for different languages.
+ 1.5 Messages should be dynamic.
+ 1.6 For isset value 'Yes' or 'No' should be held better approach.
+ 1.7 Comments should be added.
+2. Common functions should be used for email
+3. SOLID principles are not fully implemented
+4. Above written issues in store method are repeating repository
+5. Event driven approach is very good
+6. Separate functions for specific functionality is very good approach
+7. Unnecessary conditional statements
+8. Fragmented query is good
+9. Understandable code, not messy
